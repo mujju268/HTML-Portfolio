@@ -1,0 +1,67 @@
+body{
+    background-color: #FFDDCC;
+    color: #4A503D;
+    text-align: center;
+}
+h1{
+    color: #262A53;
+    font-size: 50px;
+}
+h2{
+    color: #262A53;
+    font-size: 20px;
+}
+h4{
+    color: #262A53;
+    font-size: 20px;
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
+.skillstable{
+    margin-left: 30%;
+}
+
+.contactMessage{
+    width: 40%;
+    margin-left: 30%;
+}
+
+.contactButton {
+    margin-top: 35px;
+    background: #e8a2a2;
+    background-image: -webkit-linear-gradient(top, #e8a2a2, #e8a2a2);
+    background-image: -moz-linear-gradient(top, #e8a2a2, #e8a2a2);
+    background-image: -ms-linear-gradient(top, #e8a2a2, #e8a2a2);
+    background-image: -o-linear-gradient(top, #e8a2a2, #e8a2a2);
+    background-image: linear-gradient(to bottom, #e8a2a2, #e8a2a2);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    -webkit-box-shadow: 3px 2px 13px #000000;
+    -moz-box-shadow: 3px 2px 13px #000000;
+    box-shadow: 3px 2px 13px #000000;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .contactButton:hover {
+    background: #e8a5a5;
+    background-image: -webkit-linear-gradient(top, #e8a5a5, #e81515);
+    background-image: -moz-linear-gradient(top, #e8a5a5, #e81515);
+    background-image: -ms-linear-gradient(top, #e8a5a5, #e81515);
+    background-image: -o-linear-gradient(top, #e8a5a5, #e81515);
+    background-image: linear-gradient(to bottom, #e8a5a5, #e81515);
+    text-decoration: none;
+}
+h2{
+    color: #000000;
+    line-height: 2;
+    font-size: large;
+}
